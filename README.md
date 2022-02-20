@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh Babu</h1>
-<h3 align="center">A Sophomore CS student from India</h3>
+<img align="center" alt="Coding" width="1500" height="250" src="https://github.com/babuharsh19/babuharsh19/blob/main/header.png">
+<h1 align="center">A Sophomore CS student from India</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babuharsh19&label=Profile%20views&color=0e75b6&style=flat" alt="babuharsh19" /> </p>
 
