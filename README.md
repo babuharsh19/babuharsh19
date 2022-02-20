@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, Web dev, Blockchain, DSA**
 
-- 👯 I’m looking to collaborate on **Projects in Flask-Django**
+- 👯 I’m looking to collaborate on **Projects in Web dev and Flask-Django**
 
 - 🤝 I’m looking for **Peer Programmers**
 
