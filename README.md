@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1500" height="250" src="https://github.com/babuharsh19/babuharsh19/blob/main/header.png">
-<h1 align="center">A Sophomore CS student from India</h1>
-
+<!-- <h1 align="center">A Sophomore CS student from India</h1>
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babuharsh19&label=Profile%20views&color=0e75b6&style=flat" alt="babuharsh19" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
