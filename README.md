@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flask,django**
 
-- 🌱 I’m currently learning **Django, Web dev, DSA**
+- 🌱 I’m currently learning **Blockchain, Web dev, DSA**
 
 - 👯 I’m looking to collaborate on **Projects in Web dev and Flask-Django**
 
